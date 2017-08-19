@@ -1,0 +1,6 @@
+﻿1. Create Hello World applications
+2. Sharp developer overview
+3. Properties
+	3.1 Form Properties
+	3.2 Button Properties
+	3.3 TextBox
