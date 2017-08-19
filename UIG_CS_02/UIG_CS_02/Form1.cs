@@ -21,5 +21,10 @@ namespace UIG_CS_02
         {
             textBox1.Text = "Hello World !";
         }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            textBox1.Text = comboBox1.Text;
+        }
     }
 }
