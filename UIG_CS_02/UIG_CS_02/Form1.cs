@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace UIG_CS_01
+namespace UIG_CS_02
 {
     public partial class Form1 : Form
     {
