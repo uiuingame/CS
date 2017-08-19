@@ -1,6 +1,0 @@
-1. Create Hello World App
-2. Explain about the Sharp Developme env.
-3. Properties ...
-	3.1 Screen
-	3.2 Button
-	3.3 Text Box
